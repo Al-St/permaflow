@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Regenerable pipeline artifacts (reproduced by a pipeline run)
+data/intermediate/RES_regularized.csv
+data/intermediate/RES_clean.csv
+data/intermediate/removal_rates.csv
+data/intermediate/figures/

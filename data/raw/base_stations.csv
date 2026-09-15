@@ -1,0 +1,85 @@
+base station id,base station name,latitude,longitude,timezone
+24684,M-2 Agayakan,63.33333,141.73333,Asia/Vladivostok
+24421,OG Aykhal,65.93,111.45,Asia/Krasnoyarsk
+36248,AMS Aktru,50.08333,87.81667,Asia/Barnaul
+24962,M-2 Amga,60.9,131.98,Asia/Yakutsk
+23022,MG-2 Amderma,69.75889,61.67889,Europe/Moscow
+23058,M-2 Antipayuta,69.10389,76.85806,Asia/Yekaterinburg
+25914,M-2 Arman,59.68,150.16,Asia/Magadan
+20107,GMO SP Barentsburg,78.06667,14.25,Arctic/Longyearbyen
+24263,AMSG-2 Batagay,67.64384,134.69164,Asia/Vladivostok
+24758,M-2 Berdigestyakh,62.27,127.07,Asia/Yakutsk
+23312,MG-2 Varandey,68.8,57.98,Europe/Moscow
+24266,OGMS Verkhoyansk,67.57,133.4,Asia/Vladivostok
+24641,AE Vilyuysk,63.75306,121.635,Asia/Yakutsk
+24679,M-2 Vostochnaya,63.24111,139.62917,Asia/Vladivostok
+24691,M-2 Delyankir,63.83861,145.60111,Asia/Vladivostok
+24076,AMSG-4 Deputatskiy,69.39162,139.90182,Asia/Vladivostok
+24826,M-2 Dorozhnyy,61.62,114.62,Asia/Yakutsk
+23071,AMS Dudinka,69.43,86.16,Asia/Krasnoyarsk
+23274,M-2 Igarka,67.47,86.57,Asia/Krasnoyarsk
+20292,OGMS im. E.K. Fedorova,77.71306,104.29194,Asia/Krasnoyarsk
+20946,MG-2 im. E.K. Fedorova,70.44667,59.09111,Europe/Moscow
+20667,MG-2 im. M.V. Popova,73.33278,70.06639,Asia/Yekaterinburg
+20046,OGMS im E.T. Krenkelya,80.62639,58.05889,Europe/Moscow
+20978,M-2 Karaul,70.0833,83.1667,Asia/Krasnoyarsk
+22095,MG-2 Kolguev Severnyy,69.46806,49.385,Europe/Moscow
+36259,M-2 Kosh-Agach,50.0088,88.67214,Asia/Barnaul
+23465,AMSG-4 Krasnoselkup,65.70667,82.45472,Asia/Krasnoyarsk
+24737,M-2 Krestyakh,62.26667,116.15,Asia/Yakutsk
+23235,AMS Laborovaya,67.635,67.56417,Asia/Yekaterinburg
+30497,M-2 Lopcha,55.76823,122.7844,Asia/Yakutsk
+20744,AE Malye Karmakuly,72.37444,52.71611,Europe/Moscow
+23032,MG-2 Marresalya,69.71417,66.81444,Asia/Yekaterinburg
+30938,M-2 Menza,49.43,108.85,Asia/Chita
+24726,AMSG-2 Mirnyy,62.53833,114.05611,Asia/Yakutsk
+30493,M-2 Nagornyy,55.94826,124.91575,Asia/Yakutsk
+23445,AMSG-1 Nadym,65.48056,72.68944,Asia/Yekaterinburg
+23242,MG-2 Novyy port,67.68778,72.88417,Asia/Yekaterinburg
+23358,AMSG-1 Novyy Urengoy,66.07417,76.50056,Asia/Yekaterinburg
+23077,AMSG-4 Norilsk,69.30861,87.32806,Asia/Krasnoyarsk
+23657,AMSG-3 Noyabrsk,63.19083,75.27972,Asia/Yekaterinburg
+24639,AMSG-2 Nyurba,63.3,118.35,Asia/Yakutsk
+20069,MG-2 o. Vize,79.49083,76.98306,Europe/Moscow
+24688,AE Oymyakon,63.25,143.15,Asia/Vladivostok
+24944,AMSG-3 Olekminsk,60.4,120.47611,Asia/Yakutsk
+25715,SL Omsukchan,62.52,155.8,Asia/Magadan
+29998,M-2 Orlik,52.5,99.82,Asia/Irkutsk
+21982,MG-2 Ostrov Vrangelya,70.98,-178.65,Asia/Anadyr
+23443,M-2 Pangody,65.84889,74.50806,Asia/Yekaterinburg
+24856,A Pokrovsk,61.49528,129.16639,Asia/Yakutsk
+23339,M-2 Poluy,66.03528,68.66944,Asia/Yekaterinburg
+23330,M-2 Salekhard,66.53194,66.67444,Asia/Yekaterinburg
+24652,AMSG-4 Sangary,63.96667,127.46667,Asia/Yakutsk
+21535,MG-2 Sannikova,74.66639,138.93056,Asia/Vladivostok
+20871,MG-2 Sopochnaya Karga,71.87528,82.70556,Asia/Krasnoyarsk
+30745,O Sosnovo-Ozerskoe,52.53,111.55,Asia/Chita
+24738,AMSG-4 Suntar,62.18139,117.64278,Asia/Yakutsk
+24790,M-2 Susuman,62.78,148.17,Asia/Magadan
+23256,AMSG-4 Tazovskiy,67.47556,78.71667,Asia/Yekaterinburg
+23078,TsGMS Taymyrskiy,69.33,88.3,Asia/Krasnoyarsk
+23552,OGMS Tarko-Sale,64.91139,77.77084,Asia/Yekaterinburg
+36458,AMS Tashanta,49.71,89.19,Asia/Barnaul
+24771,AMSG-4 Teplyy Klyuch,62.78806,136.85417,Asia/Vladivostok
+21824,GMO Tiksi,71.58,128.92,Asia/Yakutsk
+31005,M-2 Tommot,58.96,126.26,Asia/Yakutsk
+30576,M-2 Tupik,54.43,119.9,Asia/Chita
+30348,M-3 Uoyan,56.13,111.62,Asia/Irkutsk
+23453,AMSG-4 Urengoy,65.96278,78.43444,Asia/Yekaterinburg
+03446,PGP-3 Ust-Kuyga,70.03,135.67,Asia/Vladivostok
+24966,AMSG-4 Ust-Maya,60.365,134.45056,Asia/Vladivostok
+24898,OGMS Ust-Omchug,61.12,149.63,Asia/Magadan
+24525,M-2 Khabardino,64.6,112.52,Asia/Yakutsk
+30372,OGMS Chara,56.90633,118.25806,Asia/Yakutsk
+24724,O Chernyshevskiy,63.03,112.48,Asia/Yakutsk
+24768,M-2 Churapcha,62.03,132.6,Asia/Yakutsk
+24766,M-2 Ytyk-Kyuyol,62.4,133.57,Asia/Yakutsk
+25700,M-2 Elgen,62.8,150.67,Asia/Magadan
+31062,M-2 Yugorenok,59.77,137.67,
+24588,M-2 Yurty,64.05,141.88,Asia/Vladivostok
+24959,OGMS Yakutsk,62.01371,129.66809,Asia/Yakutsk
+30692,M-2 Skovorodino,53.99447,123.96323,Asia/Yakutsk
+23345,M-2 Nyda,66.62444,72.89611,Asia/Yekaterinburg
+30683,M-2 Erofey Pavlovich,53.95682,121.96018,Asia/Yakutsk
+31137,M-2 Toko,56.28,131.13,Asia/Vladivostok
+30499,GMB-2 Tynda,55.14692,124.72088,Asia/Yakutsk

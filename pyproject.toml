@@ -1,0 +1,36 @@
+[project]
+name = "permaflow"
+version = "2.0.0"
+description = "От телеметрии сети мониторинга многолетней мерзлоты к готовому продукту: ST-DBSCAN кластеризация, регуляризация и робастная фильтрация выбросов"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Alexander Stepanets" }]
+keywords = ["permafrost", "st-dbscan", "clustering", "outlier-detection", "time-series"]
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "scipy>=1.10",
+    "scikit-learn>=1.3",
+    "matplotlib>=3.7",
+    "plotly>=5.0",
+    "PyWavelets>=1.4",
+    "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+permaflow = "permaflow.pipeline:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
